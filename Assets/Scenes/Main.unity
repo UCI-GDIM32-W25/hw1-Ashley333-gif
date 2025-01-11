@@ -493,7 +493,6 @@ GameObject:
   - component: {fileID: 935932060}
   - component: {fileID: 935932059}
   - component: {fileID: 935932061}
-  - component: {fileID: 935932062}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -584,21 +583,7 @@ MonoBehaviour:
   _playerTransform: {fileID: 935932060}
   _plantPrefab: {fileID: 0}
   _numSeeds: 5
-  _plantCountUI: {fileID: 935932062}
---- !u!114 &935932062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 935932057}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eebc7c403a9d34bf6ac89b8e35043f21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _plantedText: {fileID: 543629224}
-  _remainingText: {fileID: 1554837977}
+  _plantCountUI: {fileID: 1657858111}
 --- !u!1 &1167303336
 GameObject:
   m_ObjectHideFlags: 0
