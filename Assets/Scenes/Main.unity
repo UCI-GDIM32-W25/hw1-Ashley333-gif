@@ -579,9 +579,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78692814429bd4f79a92be7f923fb9e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1
+  _speed: 3
   _playerTransform: {fileID: 935932060}
-  _plantPrefab: {fileID: 0}
+  _plantPrefab: {fileID: 1754530351425482429, guid: bf2c0b69b0bf0c44eb3d8a74aa88e2ae, type: 3}
   _numSeeds: 5
   _plantCountUI: {fileID: 1657858111}
 --- !u!1 &1167303336
