@@ -47,7 +47,7 @@ public class Player : MonoBehaviour
 
     public void PlantSeed ()
     {
-        if (_numSeeds > 0)
+        if (_numSeedsLeft > 0)
         {
             Instantiate(_plantPrefab, _playerTransform.position, Quaternion.identity);
 
