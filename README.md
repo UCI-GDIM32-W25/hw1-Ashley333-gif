@@ -55,7 +55,7 @@ Plant count UI:
 GameObjects：
     Player:
         Player script, 
-        SpriteRenderer for the bunny sprite, and a Rigidbody2D for movement.
+        SpriteRenderer for the bunny sprite, and transform
     UI Elements:
         Seeds Planted UI
         Seeds Remaining UI
